@@ -1,0 +1,37 @@
+spring-ai-model/src/test/java/org/springframework/ai/chat/memory/MessageWindowChatMemoryTests.java
+  d873ca9d2551cc53 21,228-278
+spring-ai-model/src/main/java/org/springframework/ai/chat/memory/MessageWindowChatMemory.java
+  d873ca9d2551cc53 93-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8-ntes.9",
+  "base_commit_sha": "513e56db7b84192b986a392167430f838c750e4c",
+  "prompts": {
+    "d873ca9d2551cc53": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a10493-9bb8-7160-b8eb-1aa332eb739a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wangguixiang",
+      "messages": [],
+      "total_additions": 62,
+      "total_deletions": 5,
+      "accepted_lines": 58,
+      "overriden_lines": 0,
+      "per_file_stats": {
+        "spring-ai-model/src/test/java/org/springframework/ai/chat/memory/MessageWindowChatMemoryTests.java": {
+          "additions": 58,
+          "deletions": 4,
+          "accepted_lines": 54
+        },
+        "spring-ai-model/src/main/java/org/springframework/ai/chat/memory/MessageWindowChatMemory.java": {
+          "additions": 4,
+          "deletions": 1,
+          "accepted_lines": 4
+        }
+      }
+    }
+  }
+}
